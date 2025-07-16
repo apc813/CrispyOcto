@@ -1,0 +1,7 @@
+---
+title: "NewFile_subfolder"
+output: html_document
+---
+```{r}
+print("New folder")
+```
